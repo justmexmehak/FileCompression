@@ -1,0 +1,1 @@
+D:\Projects\Rust\FileCompression\target\debug\file_compression_2.exe: D:\Projects\Rust\FileCompression\src\compress.rs D:\Projects\Rust\FileCompression\src\generate_random.rs D:\Projects\Rust\FileCompression\src\main.rs D:\Projects\Rust\FileCompression\src\prepare_file.rs
